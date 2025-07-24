@@ -1,16 +1,1 @@
-#EXTM3U
 
-EXTINF:-1 tvg-id=»Canal 2» tvg-logo=»https://images.app.goo.gl/9gSNpcKksJ4C3c4y6» group-title=»El Salvador»,Canal 2
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-
-EXTINF:-1 tvg-id=»Canal 4» tvg-logo=»https://images.app.goo.gl/QfE6GRBbcZRpTiMX6» group-title=»El Salvador»,Canal 4
-https://telecorporacion-es.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live.m3u
-
-EXTINF:-1 tvg-id=»Canal 6» tvg-logo=»https://images.app.goo.gl/QfE6GRBbcZRpTiMX6» group-title=»El Salvador»,Canal 6
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-
-EXTINF:-1 tvg-id=»Canal 12» tvg-logo=»https://images.app.goo.gl/onuiJEQagumYkF8D6» group-title=»El Salvador»,Canal 12
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-
-EXTINF:-1 tvg-id=»TVX» tvg-logo=»https://images.app.goo.gl/onuiJEQagumYkF8D6» group-title=»El Salvador»,TVX
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
